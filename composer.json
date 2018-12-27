@@ -3,7 +3,8 @@
     "description": "PDF File Merger for PHP 5 & 7, for usage with SetAsign FPDI.",
     "version": "2.0.0",
     "require": {
-        "setasign/fpdi-fpdf": "^2"
+        "setasign/fpdi-fpdf": "^2",
+        "tecnickcom/tcpdf": "^6.2.19"
     },
     "authors": [
         {
